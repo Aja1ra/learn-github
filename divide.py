@@ -9,4 +9,6 @@ def remove_asterisk(string):
 
     return new_string
 
+
+
 print(remove_asterisk('sk*f*s*df'))
